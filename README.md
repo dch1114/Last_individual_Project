@@ -12,5 +12,8 @@ IDE: Visual Studio 2022
 ## 플레이 화면
 
 #### 시작 화면
+<img src = "https://github.com/dch1114/Last_individual_Project/assets/129824716/8cf74960-532e-42d1-9efe-acca90900a93" width="400" height="300"/>
 
+---
 #### 메인 화면
+<img src = "https://github.com/dch1114/Last_individual_Project/assets/129824716/74d87b7d-ec57-4052-bf29-91603e5c4e66" width="400" height="300"/>
